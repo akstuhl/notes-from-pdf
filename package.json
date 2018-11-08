@@ -1,7 +1,7 @@
 {
   "name": "notes-from-pdf",
   "main": "./lib/notes-from-pdf",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Simple convenience package with paste handler for text copied from a PDF document",
   "keywords": [
     "pdf",
