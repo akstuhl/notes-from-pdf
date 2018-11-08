@@ -1,5 +1,7 @@
-# notes-from-pdf package
+# Notes from PDF package
 
-A short description of your package.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+This package for the [Atom text editor](https://atom.io/) adds an alternative paste command with text processing designed to facilitate copying text from a PDF document as a quotation. This paste handling includes the following steps, each enabled via settings:
+- Replace line breaks with spaces
+- Repair line-break hyphenations
+- Trim whitespace from start and end
+- Change typographers' quotes/apostrophes to regular ones and replace double-quotes with single-quotes
