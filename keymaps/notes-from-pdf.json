@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "notes-from-pdf:toggle",
+    "ctrl-alt-v": "notes-from-pdf:paste"
+  }
+}

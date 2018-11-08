@@ -1,0 +1,21 @@
+{
+  "name": "notes-from-pdf",
+  "main": "./lib/notes-from-pdf",
+  "version": "0.0.0",
+  "description": "Simple convenience package with paste handler for text copied from a PDF document",
+  "keywords": [
+    "pdf",
+    "notes",
+    "markdown"
+  ],
+  "activationCommands": {
+    "atom-workspace": "notes-from-pdf:paste"
+  },
+  "repository": "https://github.com/akstuhl/notes-from-pdf",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

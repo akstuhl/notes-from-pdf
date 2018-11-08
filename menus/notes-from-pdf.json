@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Paste from PDF",
+        "command": "notes-from-pdf:paste"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Notes from PDF",
+          "submenu": [
+            {
+              "label": "Paste from PDF",
+              "command": "notes-from-pdf:paste"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
