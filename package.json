@@ -2,11 +2,12 @@
   "name": "notes-from-pdf",
   "main": "./lib/notes-from-pdf",
   "version": "0.4.0",
-  "description": "Simple convenience package with paste handler for text copied from a PDF document",
+  "description": "Paste handler and other features intended for copying text from a PDF into markdown notes",
   "keywords": [
     "pdf",
     "notes",
-    "markdown"
+    "markdown",
+    "paste"
   ],
   "activationCommands": {
     "atom-workspace": "notes-from-pdf:paste"
