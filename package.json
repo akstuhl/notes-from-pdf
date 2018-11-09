@@ -1,7 +1,7 @@
 {
   "name": "notes-from-pdf",
   "main": "./lib/notes-from-pdf",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Paste handler and other features intended for copying text from a PDF into markdown notes",
   "keywords": [
     "pdf",
