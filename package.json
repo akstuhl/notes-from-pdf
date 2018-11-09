@@ -11,6 +11,9 @@
   "activationCommands": {
     "atom-workspace": "notes-from-pdf:paste"
   },
+  "activationHooks": [
+    "language-markdown:grammar-used"
+  ],
   "repository": "https://github.com/akstuhl/notes-from-pdf",
   "license": "MIT",
   "engines": {
