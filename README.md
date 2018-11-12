@@ -1,6 +1,11 @@
 # Notes from PDF package
 
-This package for the [Atom text editor](https://atom.io/) adds an alternative paste command, bound by default to ctrl-alt-v, designed to facilitate copying text from a PDF document as a quotation. This paste mode performs the following steps on incoming text, each enabled via settings:
+This package for the [Atom text editor](https://atom.io/) adds an alternative paste command that may be accessed via:
+- `notes-from-pdf:paste` in the command palette
+- keybinding `ctrl-alt-v`
+- Packages → Notes from PDF → Paste from PDF (in the menu bar)
+
+This paste mode is designed to facilitate copying text from a PDF document as a quotation. It performs the following steps on incoming text, each enabled via settings:
 - Replace line breaks with spaces
 - Repair line-break hyphenations
 - Trim whitespace from start and end
